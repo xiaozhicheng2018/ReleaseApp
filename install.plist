@@ -11,7 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>http://120.77.84.64:3001/huanyouyulei-resigned.ipa</string>
+                                        <string>http://120.77.84.64:3001/kappproduct5.ipa</string>
                                 </dict>
                                 <dict>
                                         <key>kind</key>
@@ -35,13 +35,13 @@
                                 <key>bundle-identifier</key>
                                 <string>com.kkframework.product5</string>
                                 <key>bundle-version</key>
-                                <string>1.4.0</string>
+                                <string>5.0.0</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>subtitle</key>
                                 <string></string>
                                 <key>title</key>
-                                <string>环游娱乐世界</string>
+                                <string>公平游戏</string>
                         </dict>
                 </dict>
         </array>
